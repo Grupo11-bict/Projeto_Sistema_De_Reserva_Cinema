@@ -1,0 +1,10 @@
+O filme Titanic de número 1 foi adicionado.
+Sala adicionada para o filme Titanic. Novo número do filme: 2.
+O filme Carros de número 3 foi adicionado.
+O filme Titanic de número 2 foi adicionado.
+O filme Carros de número 1 foi adicionado.
+Sala adicionada para o filme Carros. Novo número do filme: 2.
+O filme Carros de número 1 foi adicionado.
+Sala adicionada para o filme Carros. Novo número do filme: 2.
+O filme Carros de número 1 foi adicionado.
+Sala adicionada para o filme Carros. Novo número do filme: 2.
